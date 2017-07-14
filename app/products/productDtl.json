@@ -1,0 +1,45 @@
+{
+  "status":"1",
+  "msg":"请求处理成功",
+  "data":{
+        "name":"华硕(ASUS) 顽石四代尊享版 15.6英寸笔记",
+        "thumbnail":"",
+        "price":"7800.00",
+        "n_price":"1550.00",
+        "page_view":"335",
+        "leave_msg":"6",
+        "is_zp": "0",
+        "is_fp": "1",
+        "is_bx": "0",
+        "dtl": "到站2台轻便Thinkpad X230酷睿i5三代3320M(2.6G-3.3G)/4G内存/320G 7200转硬盘/1000M网卡/无线网卡/3.0 USB/摄像头/触摸板/12.5寸LED宽屏(1366x768)/Intel GMA HD 4000集成显卡/6芯理电池/极品成色非常漂亮,X230采用了Intel最新的Ivy Bridge平台酷睿i5-3320M处理器，它采用先进的22nm制程工艺制造，加之英特尔独创的3D晶体管设计，在同等大的面积上集成了更多晶体管，运算速度也大幅增加,搭配处理器内部整合的HD Graphics 4000核芯显卡，处理性能和图形性能都具有极高的能耗比,用鲁大师软件测试既然总分达到93888分,性能是非常强悍,运行起来速度刷刷爽,外观方面ThinkPad X230也有了不小的改变，尤其是键盘方面突破性的采用了联想独有的高触感键盘,好东西数量有限,先到先得!",
+        "addr": "四川省成都市高新区天府软件园G区4栋1楼",
+        "msgnum": 6,
+        "mobile": "13812341234",
+        "msglist":[
+          {
+            "user_img":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1496902792541&di=f4aba3b7cbfbfaa7e96fe4a00217caef&imgtype=0&src=http%3A%2F%2Fimg01.youxiaoshuo.com%2Fportal%2F201704%2F29%2F033833dyf0f7izizu641uy.jpg",
+            "user_name":"用户A",
+            "time":"2017-05-28 10:35",
+            "content":"这个电脑能玩H1Z1么？",
+            "reply":"",
+            "is_seller": "9"
+          },
+          {
+            "user_img":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1496902792541&di=f4aba3b7cbfbfaa7e96fe4a00217caef&imgtype=0&src=http%3A%2F%2Fimg01.youxiaoshuo.com%2Fportal%2F201704%2F29%2F033833dyf0f7izizu641uy.jpg",
+            "user_name":"用户B",
+            "time":"2017-05-28 10:35",
+            "content":"这个电脑玩H1Z1是没有任何问题的，但是需要调低效果。",
+            "reply":"用户A",
+            "is_seller": "0"
+          },
+          {
+            "user_img":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1496902792541&di=f4aba3b7cbfbfaa7e96fe4a00217caef&imgtype=0&src=http%3A%2F%2Fimg01.youxiaoshuo.com%2Fportal%2F201704%2F29%2F033833dyf0f7izizu641uy.jpg",
+            "user_name":"用户C",
+            "time":"2017-05-28 10:35",
+            "content":"这个电脑能玩H1Z1么？",
+            "reply":""
+          }
+        ]
+
+      }
+}

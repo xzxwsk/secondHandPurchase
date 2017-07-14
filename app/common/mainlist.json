@@ -1,0 +1,88 @@
+{
+  "status":"1",
+  "msg":"请求处理成功",
+  "data":[
+      {
+        "name":"Thinkpad430 i5-3350内存4G硬盘320G集成显卡",
+        "thumbnail":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1496902792541&di=f4aba3b7cbfbfaa7e96fe4a00217caef&imgtype=0&src=http%3A%2F%2Fimg01.youxiaoshuo.com%2Fportal%2F201704%2F29%2F033833dyf0f7izizu641uy.jpg",
+        "price":"7800.00",
+        "n_prive":"1550.00",
+        "time":"三分钟前",
+        "user":"小二哥",
+        "state": '热销中'
+      },
+      {
+        "name":"Thinkpad430 i5-3350内存4G硬 盘320G集成显卡",
+        "thumbnail":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1496902792541&di=62596a20326a77e6cd07e9fd3d17dcef&imgtype=0&src=http%3A%2F%2Fp10.qhimg.com%2Ft0172564a0f69d1c933.jpg",
+        "price":"7800.00",
+        "n_prive":"1550.00",
+        "time":"三分钟前",
+        "user":"小二哥",
+        "state": '已下架'
+      },
+      {
+        "name":"Thinkpad430 i5-3350内存4G硬 盘320G集成显卡",
+        "thumbnail":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1496902792539&di=c21a6e0f7d4fa55662766486a9868e15&imgtype=0&src=http%3A%2F%2Fimg.2258.com%2Fd%2Ffile%2Fyule%2Fmingxing%2Ftuwen%2F2016-08-17%2F710dda808e542946be273e61e5bec9df.jpg",
+        "price":"7800.00",
+        "n_prive":"1550.00",
+        "time":"三分钟前",
+        "user":"小二哥",
+        "state": '已下架'
+      },
+      {
+        "name":"Thinkpad430 i5-3350内存4G硬 盘320G集成显卡",
+        "thumbnail":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1496902792538&di=35ab391bd9a4307cf47241130d3ea1f3&imgtype=0&src=http%3A%2F%2Fimage.fvideo.cn%2Fuploadfile%2F2012%2F04%2F16%2F20120416151735004.jpg",
+        "price":"7800.00",
+        "n_prive":"1550.00",
+        "time":"三分钟前",
+        "user":"小二哥",
+        "state": '热销中'
+      },
+      {
+        "name":"Thinkpad430 i5-3350内存4G硬 盘320G集成显卡",
+        "thumbnail":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1496902792538&di=ce1ae9471413493f98ceb8a4fd87491a&imgtype=0&src=http%3A%2F%2Fimages.rednet.cn%2Farticleimage%2F2014%2F03%2F10%2F1048351066.jpg",
+        "price":"7800.00",
+        "n_prive":"1550.00",
+        "time":"三分钟前",
+        "user":"小二哥",
+        "state": '热销中'
+      },
+      {
+        "name":"Thinkpad430 i5-3350内存4G硬 盘320G集成显卡",
+        "thumbnail":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1496902792537&di=67fd956bc5b6f29c1804a4fdc01e8111&imgtype=0&src=http%3A%2F%2Fimg3.duitang.com%2Fuploads%2Fitem%2F201606%2F08%2F20160608020525_FNyQk.thumb.700_0.jpeg",
+        "price":"7800.00",
+        "n_prive":"1550.00",
+        "time":"三分钟前",
+        "user":"小二哥",
+        "state": '已下架'
+      },
+      {
+        "name":"Thinkpad430 i5-3350内存4G硬 盘320G集成显卡",
+        "thumbnail":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1496902792535&di=cac8c5dba74d18213f41306bccad7eab&imgtype=0&src=http%3A%2F%2Fimg.tupianzj.com%2Fuploads%2Fallimg%2F161201%2F16-161201155A40-L.jpg",
+        "price":"7800.00",
+        "n_prive":"1550.00",
+        "time":"三分钟前",
+        "user":"小二哥",
+        "state": '已下架'
+      },
+    {
+      "name":"Thinkpad430 i5-3350内存4G硬 盘320G集成显卡",
+      "thumbnail":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1496902792538&di=ce1ae9471413493f98ceb8a4fd87491a&imgtype=0&src=http%3A%2F%2Fimages.rednet.cn%2Farticleimage%2F2014%2F03%2F10%2F1048351066.jpg",
+      "price":"7800.00",
+      "n_prive":"1550.00",
+      "time":"三分钟前",
+      "user":"小二哥",
+      "state": '热销中'
+    },
+    {
+      "name":"Thinkpad430 i5-3350内存4G硬 盘320G集成显卡",
+      "thumbnail":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1496902792537&di=67fd956bc5b6f29c1804a4fdc01e8111&imgtype=0&src=http%3A%2F%2Fimg3.duitang.com%2Fuploads%2Fitem%2F201606%2F08%2F20160608020525_FNyQk.thumb.700_0.jpeg",
+      "price":"7800.00",
+      "n_prive":"1550.00",
+      "time":"三分钟前",
+      "user":"小二哥",
+      "state": '已下架'
+    },{}
+    ]
+
+}

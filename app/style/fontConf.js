@@ -1,0 +1,21 @@
+var map = {
+    "icon-btn_arr_down":"59648",
+    "icon-btn_arr_left":"59649",
+    "icon-btn_arr_right":"59650",
+    "icon-btn_arr_up":"59651",
+    "icon-btn_delete_pic":"59652",
+    "icon-btn_search":"59654",
+    "icon-btn_setting":"59655",
+    "icon-btn_show_pw":"59656",
+    "icon-btn_show_pw_on":"59657",
+    "icon-ic_nav01":"59658",
+    "icon-ic_nav01_on":"59659",
+    "icon-ic_nav02":"59660",
+    "icon-ic_nav02_on":"59661",
+    "icon-ic_nav03":"59662",
+    "icon-ic_nav03_on":"59663",
+    "icon-ic_nav04":"59664",
+    "icon-ic_nav04_on":"59665",
+    "icon-ic_nav04_pub":"59666",
+};
+;module.exports = (name)=>String.fromCharCode(map[name]);
